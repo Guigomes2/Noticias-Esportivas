@@ -1,0 +1,55 @@
+#cabeçalho {
+    background-color:#8b0000be;
+    color: #ffffff;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    
+   
+}
+
+#menu{
+    display: flex;
+    justify-content: space-evenly;
+         
+
+}
+
+#conteúdo{
+
+}
+
+#rodapé{
+
+}
+
+h1 {
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+a {
+    text-decoration-line: none; 
+    color: #000000;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+div {
+   margin: 5px;
+   padding: auto;
+}
+
+.fav {
+    height: 15px;
+}
